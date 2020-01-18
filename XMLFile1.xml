@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Cadres>
+ <Faculty FACULTY= "Cybernetics">
+  <Scientist
+    FullName="Omelchuck Lyudmila Leonidivna"
+    Department="Science"
+    Field="Informatics"
+    Chair="TTP"
+    Laboratory="2"
+    Position="Teacher"
+    OnPositionFrom="2000"
+    OnPositionTo="Still working">
+  </Scientist>
+  <Scientist
+    FullName="Molodtsov Oleksandr Ilich"
+    Department="ghvfrhvjkfdkjvb"
+    Field="Math"
+    Chair="OM"
+    Laboratory="1"
+    Position="Docent"
+    OnPositionFrom="1991"
+    OnPositionTo="Still working">
+  </Scientist>
+ </Faculty>
+ <Faculty FACULTY="FREKS">
+  <Scientist
+    FullName="Stavrovskii Andrii Borysovich"
+    Department="Science"
+    Field="Math"
+    Chair="TK"
+    Laboratory="3"
+    Position="Docent"
+    OnPositionFrom="1986"
+    OnPositionTo="Still working">
+  </Scientist>
+ </Faculty>
+</Cadres>  
